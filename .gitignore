@@ -1,0 +1,12 @@
+build/
+sdkconfig
+sdkconfig.old
+*.bin
+*.elf
+*.tflite
+*.a
+*.jpg
+*.jpeg
+*.log
+managed_components/
+

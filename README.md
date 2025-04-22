@@ -1,3 +1,4 @@
+<<<<<<< HEAD
  HEAD
 [supported]: https://img.shields.io/badge/-supported-green "supported"
 
@@ -40,3 +41,6 @@ If model location is set to FLASH partition, please set this option to `partitio
 
 # esp_intermittent_face_ml
  daf093bd5ab2254d4746752e7b71c4289d36ff23
+=======
+# esp_intermittent_face_ml
+>>>>>>> daf093bd5ab2254d4746752e7b71c4289d36ff23
